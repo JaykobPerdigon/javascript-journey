@@ -1,4 +1,4 @@
-# freeCodeCamp: JavaScript Journey
+# FreeCodeCamp: JavaScript Journey
 
 Solutions and practice from freeCodeCamp's JavaScript curriculum, 
 written while learning JS coming from a C background.
